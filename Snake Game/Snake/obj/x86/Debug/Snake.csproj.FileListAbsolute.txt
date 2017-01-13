@@ -1,0 +1,26 @@
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\obj\x86\Debug\贪食蛇.Form1.resources
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\obj\x86\Debug\贪吃蛇.Properties.Resources.resources
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\bin\Debug\贪吃蛇.exe
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\bin\Debug\贪吃蛇.pdb
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\obj\x86\Debug\贪吃蛇.exe
+D:\D\LocalDesk D\学校\课程\C#\石可常\贪食蛇最终版\贪食蛇\obj\x86\Debug\贪吃蛇.pdb
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\obj\x86\Debug\贪吃蛇.exe
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\obj\x86\Debug\贪吃蛇.pdb
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\bin\Debug\贪吃蛇.exe
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\bin\Debug\贪吃蛇.pdb
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\obj\x86\Debug\贪食蛇.Form1.resources
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\obj\x86\Debug\贪吃蛇.Properties.Resources.resources
+D:\D\LocalDesk D\学校\课程\C#\石可常\Snake Game\贪食蛇\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+D:\D\Study\Project\Snake Game\贪食蛇\obj\x86\Debug\贪吃蛇.exe
+D:\D\Study\Project\Snake Game\贪食蛇\obj\x86\Debug\贪吃蛇.pdb
+D:\D\Study\Project\Snake Game\Snake\obj\x86\Debug\贪吃蛇.exe
+D:\D\Study\Project\Snake Game\Snake\obj\x86\Debug\贪吃蛇.pdb
+D:\D\Study\Project\Snake Game\Snake\bin\Debug\贪吃蛇.exe
+D:\D\Study\Project\Snake Game\Snake\bin\Debug\贪吃蛇.pdb
+D:\D\Study\Project\Snake Game\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\D\Study\Project\Snake Game\Snake\obj\x86\Debug\贪食蛇.Form1.resources
+D:\D\Study\Project\Snake Game\Snake\obj\x86\Debug\贪吃蛇.Properties.Resources.resources
+D:\D\Study\Project\Snake Game\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
